@@ -1,21 +1,24 @@
-# PPMT
+# PMT
 
 Introduction: a web application, and users can use this tool to manage and track their projects.
 
 1. Sign Up
 
-![image](https://github.com/Mojuanmian/PPMT/assets/122363652/6b7dd0a8-98b1-43cc-a35c-505ae9dd40cc)
+![WechatIMG536](https://github.com/Mojuanmian/PMT/assets/122363652/2bcd6ca9-2905-410f-92ca-4a275a8059a3)
+
 
 2. Login
 
-![image](https://github.com/Mojuanmian/PPMT/assets/122363652/7744d16b-2bcf-4748-af70-f96ee8a11220)
+![WechatIMG537](https://github.com/Mojuanmian/PMT/assets/122363652/0e0f9d11-f13c-4e65-a5f3-8a5d85d81d39)
+
 
 3. Projects
 
-![image](https://github.com/Mojuanmian/PPMT/assets/122363652/7660e68d-5ee1-419b-9802-3541e99b35b7)
+![WechatIMG534](https://github.com/Mojuanmian/PMT/assets/122363652/eeeb76e7-3e3c-4f4d-8f8a-10d462716d43)
+
 
 4. Creat / Edit Project
 
-![image](https://github.com/Mojuanmian/PPMT/assets/122363652/6b3894f7-3877-456b-b268-f121f5af09de)
+![WechatIMG533](https://github.com/Mojuanmian/PMT/assets/122363652/c8a68c4a-02c8-42ff-a9e5-2272bc400851)
 
 
